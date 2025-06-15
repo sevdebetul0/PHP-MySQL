@@ -59,10 +59,12 @@ movie-locations-project/
 ## 🔗 Uygulama
 1. Kullanıcı kayıt olur ve giriş yapar.
 2. Kullanıcı;
-   -Film/dizi lokasyonu, adres bilgisi, fotoğraf ekler.
-   -Hangi sahnenin çekildiğinin açıklamasını, ziyaret edip etmediğinin bilgisini girer.
-3. Anasayfada lokasyonlar listelenir. Toplam lokasyon sayısı, yüzde olarak kaçının tamamlandığı bilgisi verilir.
-4. Kullanıcı çıkış yapar.
+   
+  - Film/dizi lokasyonu, adres bilgisi, fotoğraf ekler.
+   
+  - Hangi sahnenin çekildiğinin açıklamasını, ziyaret edip etmediğinin bilgisini girer.
+4. Anasayfada lokasyonlar listelenir. Toplam lokasyon sayısı, yüzde olarak kaçının tamamlandığı bilgisi verilir.
+5. Kullanıcı çıkış yapar.
    
 
 
