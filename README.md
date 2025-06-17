@@ -2,6 +2,9 @@
 
 Bu proje, kullanıcıların dizi ve film çekimlerinin yapıldığı lokasyonları ekleyip görüntüleyebildiği, tekrar düzenleyebildiği bir PHP & MySQL tabanlı web uygulamasıdır.
 ---
+## 🖼️Canlı
+🔗[denemek için](http://95.130.171.20/~st23360859038/login.php)
+---
 ## 📌 Özellikler
 
 - ✅ Yeni dizi/film lokasyonu ekleme
